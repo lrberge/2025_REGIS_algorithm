@@ -17,3 +17,7 @@
 !rmake-example
 !rmake-example/*
 
+/.quarto/
+
+!docs/
+!docs/**
