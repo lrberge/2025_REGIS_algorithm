@@ -4,6 +4,8 @@
 !.gitignore
 
 !*REGIS_Berge.pdf
+!LICENCE
+!README.md
 
 !_DATA
 !_DATA/*
