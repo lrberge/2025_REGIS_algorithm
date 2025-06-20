@@ -2,7 +2,7 @@
 
 ### Algorithms for patent data
 
-Welcome to the repository of the REGIS's course *Algorithms for patent data* by Laurent Bergé (2025-06-19).
+Welcome to the repository of the REGIS's course *Algorithms for empirical research* by Laurent Bergé (2025-06-19).
 
 The website of the course is: https://lrberge.github.io/2025_REGIS_algorithm/
 
